@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\home_work_17_07_2019\home_work_17_07_2019\bin\Debug\home_work_17_07_2019.exe.config
+C:\Users\DELL\source\repos\home_work_17_07_2019\home_work_17_07_2019\bin\Debug\home_work_17_07_2019.exe
+C:\Users\DELL\source\repos\home_work_17_07_2019\home_work_17_07_2019\bin\Debug\home_work_17_07_2019.pdb
+C:\Users\DELL\source\repos\home_work_17_07_2019\home_work_17_07_2019\obj\Debug\home_work_17_07_2019.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\home_work_17_07_2019\home_work_17_07_2019\obj\Debug\home_work_17_07_2019.Form1.resources
+C:\Users\DELL\source\repos\home_work_17_07_2019\home_work_17_07_2019\obj\Debug\home_work_17_07_2019.Properties.Resources.resources
+C:\Users\DELL\source\repos\home_work_17_07_2019\home_work_17_07_2019\obj\Debug\home_work_17_07_2019.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\home_work_17_07_2019\home_work_17_07_2019\obj\Debug\home_work_17_07_2019.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\home_work_17_07_2019\home_work_17_07_2019\obj\Debug\home_work_17_07_2019.exe
+C:\Users\DELL\source\repos\home_work_17_07_2019\home_work_17_07_2019\obj\Debug\home_work_17_07_2019.pdb
+C:\Users\DELL\source\repos\home_work_17_07_2019\home_work_17_07_2019\obj\Debug\home_work_17_07_2019.AdminForm.resources
